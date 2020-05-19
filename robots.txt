@@ -1,5 +1,4 @@
 # robots.txt for http://ivanshires.info
-User-agent: *
 Sitemap: https://ivanshires.info/sitemap.xml
 Disallow: */images/*
 Disallow: */scripts/*
