@@ -1,39 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
+<sitemapindex>
+  <sitemap>
     <loc>http://www.ivanshires.info</loc>
     <lastmod>2020-05-18</lastmod>
-  </url>
-  <url>
+  </sitemap>
+  <sitemap>
     <loc>http://www.ivanshires.info/experience</loc>
     <lastmod>2020-05-18</lastmod>
-  </url>
-  <url>
+  </sitemap>
+  <sitemap>
     <loc>http://www.ivanshires.info/about</loc>
     <lastmod>2020-05-18</lastmod>
-  </url>
-  <url>
+  </sitemap>
+  <sitemap>
     <loc>http://www.ivanshires.info/contact</loc>
     <lastmod>2020-05-18</lastmod>
-  </url>
-  <url>
+  </sitemap>
+  <sitemap>
     <loc>http://www.ivanshires.info/skills/python.html</loc>
     <lastmod>2020-05-18</lastmod>
-  </url>
-  <url>
+  </sitemap>
+  <sitemap>
     <loc>http://www.ivanshires.info/skills/linux.html</loc>
     <lastmod>2020-05-18</lastmod>
-  </url>
-  <url>
+  </sitemap>
+  <sitemap>
     <loc>http://www.ivanshires.info/experience/college.html</loc>
     <lastmod>2020-05-18</lastmod>
-  </url>
-  <url>
+  </sitemap>
+  <sitemap>
     <loc>http://www.ivanshires.info/skills/tableau.html</loc>
     <lastmod>2020-05-18</lastmod>
-  </url>
-  <url>
+  </sitemap>
+  <sitemap>
     <loc>http://www.ivanshires.info/contact</loc>
     <lastmod>2020-05-18</lastmod>
-  </url>
-</urlset>
+  </sitemap>
+</sitemapindex>
